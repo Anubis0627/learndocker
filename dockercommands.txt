@@ -2,3 +2,5 @@ docker pull
 docker run
 docker images
 docker ps | docker container ls
+docker commit
+docker build
