@@ -8,3 +8,4 @@ docker attach --sig-proxy=false
 docker rm
 docker rmi
 docker start | stop
+docker tag <image> <tag>
